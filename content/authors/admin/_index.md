@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yongsen Ruan \n (阮永森)
+title: "Yongsen Ruan\n(阮永森)"
 
 # Is this the primary user of the site?
 superuser: true
