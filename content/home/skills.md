@@ -2,6 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
+active: false ## Delete the sections in content/home/ that you don’t need (or set active to false in their front matter) 
 
 # This file represents a page section.
 headless: true
