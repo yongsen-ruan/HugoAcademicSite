@@ -73,8 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m interested in the theoretical population genetics and specialized in computational biology and mathematical modelling. My PhD’s work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues. I’m interested in exploring how mutation, selection, migration and other evolutionary driving forces to affect tumorigenesis, cancer metastasis, tumor heterogeneity and aging. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to somatic evolution, I’m interested in theoretical aspects of traditional evolutionary processes, including the evolution of sex, how recombination and beneficial mutations affect the fitness dynamics of a population, rigorous characterization of Hill-Robertson effect. Recently, I’m studying the origin and early evolution of COVID-19, the founder effect in COVID-19 outbreaks. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YongsenRuan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
