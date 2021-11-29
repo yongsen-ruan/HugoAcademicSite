@@ -22,12 +22,17 @@ twitter: ''
 
 email: rnygsn@163.com
 # phone: 888 888 88 88
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Yongsen_Ruan'
 address:
   street: No. 135, Xingang Xi Road, Haizhu District
   city: Guangzhou
   region: Guangdong
   postcode: '510275'
-  country: P.R. China
+  country: China
   country_code: CN
 coordinates:
   latitude: '23.09396799294832'
@@ -35,12 +40,7 @@ coordinates:
 directions: Take the stairs to Office 501 on Floor 5
 office_hours:
   - 'Weekdays 9:00 to 17:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Yongsen_Ruan'
+# appointment_url: 'https://calendly.com'
   # - icon: skype
     # icon_pack: fab
     # name: Skype Me
