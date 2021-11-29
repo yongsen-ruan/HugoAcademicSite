@@ -31,7 +31,7 @@ address:
   street: No. 135, Xingang Xi Road, Haizhu District
   city: Guangzhou
   region: Guangdong
-  postcode: 510275
+  postcode: '510275'
   country: China
   country_code: +86
 coordinates:
