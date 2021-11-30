@@ -33,11 +33,11 @@ authors:
 - 阮永森
 
 tags:
-- Academic
+- twin-beginnings
 - SARS-CoV-2
 
 categories:
-- Demo
+- pandemic
 - Preprint
 ---
 
