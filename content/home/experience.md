@@ -47,7 +47,7 @@ experience:
   - title: B.S. in Biotechnology
     company: School of Life Sciences, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
-    company_logo: org-gc  ## org-x
+    company_logo: bc-cap  ## org-x
     location: Guangzhou
     date_start: '2011-09-01'
     date_end: '2015-07-01'
