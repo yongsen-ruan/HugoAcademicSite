@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Fellow
     company: School of Life Sciences, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
-    # company_logo: sysu-logo ##Logos can be added in SVG format to your media/icons/brands folder, named accordingly to the brand (lowercase and replacing spaces with hyphens (-))
+    company_logo: sysu-logo ##Logos can be added in SVG format to your assets/media/brands folder, named accordingly to the brand (lowercase and replacing spaces with hyphens (-))
     location: Guangzhou
     date_start: '2020-11-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Ph.D. in Biochemistry and Molecular Biology
     company: School of Life Sciences, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
-    company_logo: org-gc
+    company_logo: phd-cap
     location: Guangzhou
     date_start: '2015-09-01'
     date_end: '2020-08-01'
