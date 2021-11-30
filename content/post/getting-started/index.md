@@ -54,20 +54,9 @@ categories:
 - 👉 [**On the origin of SARS-CoV-2—The blind watchmaker argument**](https://link.springer.com/article/10.1007/s11427-021-1972-1)
 - 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
 - 💬 [Evidence of SARS-CoV-2 in Italy, **November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
-# - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- 💡 Others to be added
 
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
 
 ## Features
 
@@ -87,14 +76,8 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://wowc
 - **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
 - **One-Click Deployment** - No servers. No databases. Only files.
 
-## Themes
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Copyright 2020-present [Yongsen Ruan](https://yongsen-ruan.com).
