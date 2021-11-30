@@ -48,7 +48,7 @@ categories:
 3. **The European DG1111 strain had acquired the highly adaptive DG mutations in the pre-pandemic Europe and had been spreading in parallel with the Asian strains.** Two recent reports further support this twin-beginning interpretation. There was a period of two-way spread between Asia and Europe but, by May of 2020, the European strains had supplanted the Asian strains globally.
 
 # {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
-{{< figure src="featured.jpg" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
+{{< figure src="Fig2.pdf" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
 
 ## ❤️ Related Research ❤️
 
