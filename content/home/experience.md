@@ -40,17 +40,17 @@ experience:
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
     company_logo: org-x
     location: Guangzhou
-    date_start: '2015-09'
-    date_end: '2020-08'
-    description: My PhD’s work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues.
+    date_start: '2015-09-1'
+    date_end: '2020-08-1'
+    description: My PhD's work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues.
 
   - title: B.S. in Biotechnology
     company: School of Life Sciences, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
     company_logo: org-x
     location: Guangzhou
-    date_start: '2011-09'
-    date_end: '2015-07'
+    date_start: '2011-09-1'
+    date_end: '2015-07-1'
     description: 
 
 design:
