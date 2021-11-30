@@ -39,14 +39,14 @@ item:
   organization_url: https://ocw.mit.edu/
   title: Linear Algebra
   url: "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/"
-# - certificate_url: https://www.coursera.org/specializations/data-science-python
-  # date_end: ""
-  # date_start: ""
-  # description: ""
-  # organization: coursera
-  # organization_url: https://www.coursera.org/
-  # title: 'Applied Data Science with Python Specialization'
-  # url: ""
+- certificate_url: https://www.coursera.org/specializations/data-science-python
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: coursera
+  organization_url: https://www.coursera.org/
+  title: 'Applied Data Science with Python Specialization'
+  url: ""
 
 design:
   columns: '2' 
