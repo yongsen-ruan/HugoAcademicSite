@@ -43,9 +43,9 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. In the spread of SARS-CoV-2, there have been multiple waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations that includes D614G. This DG (D614G) group, fixed at the start of the pandemic, is the foundation of all subsequent waves of strains.
+2. Curiously, the DG group is absent in early Asian samples but present (and likely common) in Europe from the beginning. European data show that the high fitness of DG1111 requires the synergistic effect of all four mutations. However, the European strains would have no time to evolve the 4 DG mutations (0 to 1), had they come directly from the early Asian DG0000 strain.
+3. **The European DG1111 strain had acquired the highly adaptive DG mutations in the pre-pandemic Europe and had been spreading in parallel with the Asian strains.** Two recent reports further support this twin-beginning interpretation. There was a period of two-way spread between Asia and Europe but, by May of 2020, the European strains had supplanted the Asian strains globally.
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
