@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: The twin-beginnings of COVID-19 in Asia and Europe – One prevails quickly
+subtitle: In the spread of SARS-CoV-2, there have been five waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations (C241T, C3037T, C14408T, and A23403G [this being the amino acid change D614G]) has **twin-beginnings**.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: In the spread of SARS-CoV-2, there have been five waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations (C241T, C3037T, C14408T, and A23403G [this being the amino acid change D614G]) has **twin-beginnings**.
 
 # Link this post with a project
 projects: []
