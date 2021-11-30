@@ -40,8 +40,8 @@ item:
   title: Linear Algebra
   url: "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/"
 - certificate_url: https://www.coursera.org/specializations/data-science-python
-  date_end: ""
-  date_start: ""
+  date_end: "2016-02-04"
+  date_start: "2015-10-25"
   description: ""
   organization: coursera
   organization_url: https://www.coursera.org/
