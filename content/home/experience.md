@@ -35,14 +35,14 @@ experience:
         * Analysing
         * Modelling
         
-  # - title: Ph.D. in Biochemistry and Molecular Biology
-    # company: School of Life Sciences, Sun Yat-sen University
-    # company_url: 'http://www.sysu.edu.cn/en/index.htm'
-    # company_logo: org-x
-    # location: Guangzhou
-    # date_start: '2015-09-1'
-    # date_end: '2020-08-1'
-    # description: My PhD's work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues.
+  - title: Ph.D. in Biochemistry and Molecular Biology
+    company: School of Life Sciences, Sun Yat-sen University
+    company_url: 'http://www.sysu.edu.cn/en/index.htm'
+    company_logo: org-x
+    location: Guangzhou
+    date_start: '2015-09-1'
+    date_end: '2020-08-1'
+    description: My PhD's work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues.
 
   # - title: B.S. in Biotechnology
     # company: School of Life Sciences, Sun Yat-sen University
