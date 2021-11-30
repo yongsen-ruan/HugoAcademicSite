@@ -1,5 +1,5 @@
 ---
-title: The twin-beginnings of COVID-19 in Asia and Europe – One prevails quickly
+title: Delta strain
 subtitle: In the spread of SARS-CoV-2, there have been five waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations (C241T, C3037T, C14408T, and A23403G [this being the amino acid change D614G]) has **twin-beginnings**.
 
 # Summary for listings and search engines
