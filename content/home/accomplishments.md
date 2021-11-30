@@ -32,7 +32,7 @@ item:
   title: Population Genetics
   url: "http://wulab.sysu.edu.cn/Item/35.aspx"
 - certificate_url: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-  date_end: "2016-02-04"
+  # date_end: "2016-02-04"
   date_start: "2015-10-25"
   description: ""
   organization: MIT OpenCourseWare
