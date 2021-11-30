@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: http://wulab.sysu.edu.cn/Teaching/Index.aspx
+  date_end: "2016-02-04"
+  date_start: "2015-10-25"
+  description: ""
+  organization: Sun Yat-sen University
+  organization_url: http://www.sysu.edu.cn
+  title: Population Genetics
+  url: "http://wulab.sysu.edu.cn/Item/35.aspx"
 - certificate_url: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
   date_end: ""
   date_start: "2015-10-25"
