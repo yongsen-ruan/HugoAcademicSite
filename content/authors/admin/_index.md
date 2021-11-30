@@ -21,17 +21,17 @@ interests:
 - Populaiton Genetics
 - Computational Biology
 - Somatic Evolution
-- Origin and Evolution of virus
+- Origin and Evolution of Virus
 - Evolution of Sex
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biochemistry and Molecular Biology
+  - course: Ph.D. in Biochemistry and Molecular Biology
     institution: Sun Yat-sen University
     advisor: Prof. Chung-I Wu
     year: 2020
-  - course: BSc in Biotechnology
+  - course: B.S. in Biotechnology
     institution: Sun Yat-sen University
     year: 2015
 
