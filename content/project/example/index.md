@@ -11,14 +11,14 @@ date: "2020-02-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from the Internet
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/Yongsen_Ruan
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,15 +29,16 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Mutational process is fundamental to understanding many evolutionary phenomena. In a lifetime, mutation occurrence is usually treated as a simple Poisson process. This over-simplified assumption seems an inadequate foundation for realistic theories of such phenomena as the germline mutation rate (Kumar 2005; Lynch 2010; Scally and Durbin 2012; Sung, et al. 2012; Wielgoss, et al. 2013; Segurel, et al. 2014; Lynch, et al. 2016), or the evolution of sex (Charlesworth, et al. 2005).  
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Mutation accumulation in the germline, like that observed in somatic tissues (Alexandrov, et al. 2015; Milholland, et al. 2015; Podolskiy, et al. 2016; Zhang, et al. 2019), is likely a time-inhomogeneous process. In particular, since some mutations are themselves mutators that increase the mutation rate, mutations should beget more mutations thus leading to runaway accumulation. While genes responsible for DNA repair are likely mutators, evidence suggests that a much larger number of mutations may increase the mutation rate in a subtle manner (Hung, et al. 2019). For example, any mutation that can influence the chromatin structure or the ion concentration can be a mutator if it can impair DNA polymerase and/or repair enzymes (Schuster-Bockler and Lehner 2012; El Meouche and Dunlop 2018). Unless held back by selection, the first mutator would start a runaway process and eventually greatly elevate the mutation rate. It will be shown that many weak mutators will trigger the runaway more quickly than a few strong ones, with the same aggregate mutation effect. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+In recent years, the accumulation of mutations in somatic tissues (including tumors) has been extensively recorded (Kandoth, et al. 2013; Lawrence, et al. 2013; Martincorena, et al. 2015; Blokzijl, et al. 2016; Ju, et al. 2017; Bae, et al. 2018; Lodato, et al. 2018; Chen, et al. 2019; Yizhak, et al. 2019). The main difference between germline and somatic mutations is that germline mutations are found in all cells of the progeny, whereas somatic mutations affect only local patches of tissues. The fitness consequences are drastically different. Indeed, somatic mutations experience such weak selection that the process is characterized as “quasi-neutral” (Chen, et al. 2019). As the runaway process is operative only when it is unchecked by natural selection, somatic mutations are ideal for such an investigation. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+In somatic cells, when the runaway mutational process is triggered, it may lead to tumorigenesis. Therefore, the end-products of runaway accumulation are different in the germline than in the soma. In the former, they are eliminated by natural selection but, in the latter, they prominently present themselves in tumors. In TCGA (The Cancer Genome Atlas) data, the mutation load varies by more than 1000-fold, even among cases of the same cancer type (Cancer Genome Atlas Research, et al. 2013; Kandoth, et al. 2013; Lawrence, et al. 2013). Hence, the distribution of the mutation load typically exhibits a very long tail (Fig. S1). This highly skewed distribution suggests something akin to a runaway process. 
+ 
+For germline mutations, the mutation rate would be limited by natural selection due to their fitness consequences. Hence, how this limit is set has been a frequent topic in the literature (Sturtevant 1937; Kimura and Maruyama 1966; Leigh 1970; Drake 1991; Lynch 2008, 2010; Thomas, et al. 2010; Lynch 2011; Wielgoss, et al. 2013; Segurel, et al. 2014). Since the mutation rate may not stay constant in a lifetime, it might entail a low initial rate in order to reduce the likelihood of runaway accumulation. There are many evolutionary implications for avoiding the runaway process.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
