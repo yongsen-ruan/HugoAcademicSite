@@ -14,7 +14,7 @@ author_notes:
 - "Corresponding Author"
 
 date: "2020-04-01T00:00:00Z"
-doi: ""
+doi: "doi.org/10.1093/molbev/msz283"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01T00:00:00Z"
@@ -50,13 +50,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://academic.oup.com/mbe/article/37/4/1007/5645182'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**MBE**](https://academic.oup.com/mbe/article/37/4/1007/5645182)'
   focal_point: ""
   preview_only: false
 
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- mutationRateEvo
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
