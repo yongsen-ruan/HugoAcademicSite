@@ -52,7 +52,7 @@ categories:
 
 ## Link to this Research
 
-- **National Science Review** -  online on [***NSR***] (https://academic.oup.com/nsr)
+- **National Science Review** -  online on [**NSR**] (https://academic.oup.com/nsr)
 
 
 ## ❤️ Related Research ❤️
