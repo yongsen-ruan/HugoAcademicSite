@@ -1,9 +1,11 @@
 ---
 title: Mutation Rate Evolution
-summary: An example of using the in-built project page.
+summary: Project on the evolution of mutation rate in soma and germline cell.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- mutation rate
+- soma 
+- germline
+date: "2020-02-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
