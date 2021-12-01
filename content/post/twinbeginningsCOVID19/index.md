@@ -47,7 +47,7 @@ categories:
 2. Curiously, the DG group is absent in early Asian samples but present (and likely common) in Europe from the beginning. European data show that the high fitness of DG1111 requires the synergistic effect of all four mutations. However, the European strains would have no time to evolve the 4 DG mutations (0 to 1), had they come directly from the early Asian DG0000 strain.
 3. **The European DG1111 strain had acquired the highly adaptive DG mutations in the pre-pandemic Europe and had been spreading in parallel with the Asian strains.** Two recent reports further support this twin-beginning interpretation. There was a period of two-way spread between Asia and Europe but, by May of 2020, the European strains had supplanted the Asian strains globally.
 
-{{< figure src="fig2.pdf" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
+{{< figure src="fig2.jpg" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
 
 ## ❤️ Related Research ❤️
 
