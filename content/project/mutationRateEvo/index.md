@@ -31,13 +31,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 
-## ❤️ Related Research ❤️
-
-- 👉 [**On the origin of SARS-CoV-2—The blind watchmaker argument**](https://link.springer.com/article/10.1007/s11427-021-1972-1)
-- 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
-- 💬 Evidence of SARS-CoV-2 in Italy, [**November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
-- 💡 Others to be added
-
 ---
 
 Mutational process is fundamental to understanding many evolutionary phenomena. In a lifetime, mutation occurrence is usually treated as a simple Poisson process. This over-simplified assumption seems an inadequate foundation for realistic theories of such phenomena as the germline mutation rate (Kumar 2005; Lynch 2010; Scally and Durbin 2012; Sung, et al. 2012; Wielgoss, et al. 2013; Segurel, et al. 2014; Lynch, et al. 2016), or the evolution of sex (Charlesworth, et al. 2005).  
@@ -50,3 +43,9 @@ In somatic cells, when the runaway mutational process is triggered, it may lead 
  
 For germline mutations, the mutation rate would be limited by natural selection due to their fitness consequences. Hence, how this limit is set has been a frequent topic in the literature (Sturtevant 1937; Kimura and Maruyama 1966; Leigh 1970; Drake 1991; Lynch 2008, 2010; Thomas, et al. 2010; Lynch 2011; Wielgoss, et al. 2013; Segurel, et al. 2014). Since the mutation rate may not stay constant in a lifetime, it might entail a low initial rate in order to reduce the likelihood of runaway accumulation. There are many evolutionary implications for avoiding the runaway process.
 
+## ❤️ Related Research ❤️
+
+- 👉 [**On the origin of SARS-CoV-2—The blind watchmaker argument**](https://link.springer.com/article/10.1007/s11427-021-1972-1)
+- 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
+- 💬 Evidence of SARS-CoV-2 in Italy, [**November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
+- 💡 Others to be added
