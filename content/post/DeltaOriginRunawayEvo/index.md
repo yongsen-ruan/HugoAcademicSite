@@ -1,9 +1,10 @@
 ---
-title: Delta strain
-subtitle: In the spread of SARS-CoV-2, there have been five waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations (C241T, C3037T, C14408T, and A23403G [this being the amino acid change D614G]) has **twin-beginnings**.
+title: The runaway evolution of SARS-CoV-2 leading to the highly evolved Delta strain
+
+subtitle: In new epidemics after the host shift, the pathogens may experience accelerated evolution driven by novel selective pressures. When the accelerated evolution enters a positive feedback loop with the expanding epidemics, the pathogen’s runaway evolution may be triggered.
 
 # Summary for listings and search engines
-summary: In the spread of SARS-CoV-2, there have been five waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations (C241T, C3037T, C14408T, and A23403G [this being the amino acid change D614G]) has **twin-beginnings**.
+summary: The global increase in the viral population size (*M*(*t*), at time *t*) and the mutation accumulation (*R*(*t*)) may have indeed triggered the **runaway evolution** in late 2020, leading to the highly evolved Alpha and then Delta strain.
 
 # Link this post with a project
 projects: []
@@ -33,8 +34,9 @@ authors:
 - 阮永森
 
 tags:
-- twin-beginnings
+- Delta strain
 - SARS-CoV-2
+- runaway evolution
 
 categories:
 - pandemic
@@ -43,12 +45,17 @@ categories:
 
 ## Overview
 
-1. In the spread of SARS-CoV-2, there have been multiple waves of replacement between strains, each of which having a distinct set of mutations. The first wave is a group of 4 mutations that includes D614G. This DG (D614G) group, fixed at the start of the pandemic, is the foundation of all subsequent waves of strains.
-2. Curiously, the DG group is absent in early Asian samples but present (and likely common) in Europe from the beginning. European data show that the high fitness of DG1111 requires the synergistic effect of all four mutations. However, the European strains would have no time to evolve the 4 DG mutations (0 to 1), had they come directly from the early Asian DG0000 strain.
-3. **The European DG1111 strain had acquired the highly adaptive DG mutations in the pre-pandemic Europe and had been spreading in parallel with the Asian strains.** Two recent reports further support this twin-beginning interpretation. There was a period of two-way spread between Asia and Europe but, by May of 2020, the European strains had supplanted the Asian strains globally.
+1. In new epidemics after the host shift, the pathogens may experience accelerated evolution driven by novel selective pressures. When the accelerated evolution enters a positive feedback loop with the expanding epidemics, the pathogen’s runaway evolution may be triggered. To test this possibility in COVID-19, we analyze the extensive databases and identify 5 major waves of strains, one replacing the previous one in 2020 – 2021. 
+2. The mutations differ entirely between waves and the number of mutations continues to increase, from 3-4 to 21-31. The latest wave is the Delta strain which accrues 31 new mutations to become highly prevalent. Interestingly, these new mutations in Delta strain emerge in multiple stages with each stage driven by 6 – 12 coding mutations that form a fitness group. In short, the evolution of SARS-CoV-2 from the oldest to the youngest wave, and from the earlier to the later stages of the Delta wave, is a process of acceleration with more and more mutations. 
+3. The global increase in the viral population size (*M*(*t*), at time *t*) and the mutation accumulation (*R*(*t*)) may have indeed triggered the **runaway evolution** in late 2020, leading to the highly evolved Alpha and then Delta strain. To suppress the pandemic, it is crucial to break the positive feedback loop between M(t) and R(t), neither of which has yet to be effectively dampened in late 2021.
 
-# {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
-{{< figure src="featured.jpg" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
+{{< figure src="fig1.jpg" title="The number of SNVs accrued in the genomes of SARS-CoV-2 in the last 550 days." >}}
+
+
+## Link to this Research
+
+- **National Science Review** -  online on [**NSR**] (https://academic.oup.com/nsr)
+
 
 ## ❤️ Related Research ❤️
 
@@ -56,14 +63,6 @@ categories:
 - 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
 - 💬 Evidence of SARS-CoV-2 in Italy, [**November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
 - 💡 Others to be added
-
-
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-
 
 
 ## License
