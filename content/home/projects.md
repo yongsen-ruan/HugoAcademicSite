@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Mutation Rate Evolution
     tag: mutation rate
+  - name: SARS-CoV-2 Evolution
+    tag: SARS-CoV-2
   - name: Other
     tag: Demo
 
