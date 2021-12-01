@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Mutation Rate Evolution
+    tag: mutation rate
   - name: Other
     tag: Demo
 
