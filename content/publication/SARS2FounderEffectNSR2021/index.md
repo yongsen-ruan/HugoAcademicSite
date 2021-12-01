@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'papers/Ruan_2021NSR_Ruan_SARS2Founder.pdf'
+url_pdf: 'papers/Ruan_2021NSR_Ruan_SARS2Founder.pdf'  # relative to `static/media/` folder
 # url_pdf: 'https://academic.oup.com/nsr/article-pdf/8/1/nwaa246/35886122/nwaa246.pdf'
 url_code: ''
 url_dataset: ''
