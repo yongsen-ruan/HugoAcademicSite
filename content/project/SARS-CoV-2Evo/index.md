@@ -40,7 +40,7 @@ Epidemiological studies estimate that, in December 2019 — September 2020 perio
 
 ## ❤️ Related Research ❤️
 
-- 👉 [**Mutations Beget More Mutations—Rapid Evolution of Mutation Rate in Response to the Risk of Runaway Accumulation**](https://academic.oup.com/mbe/article/37/4/1007/5645182?login=true)
-- 📚 [**Evolution of the mutation rate**](https://www.sciencedirect.com/science/article/abs/pii/S0168952510001034)
-- 💬 Michael Lynch's Review on Evoluton of Mutation Rate: [**Genetic drift, selection and the evolution of the mutation rate**](https://www.nature.com/articles/nrg.2016.104)
+- 👉 [**On the origin of SARS-CoV-2—The blind watchmaker argument**](https://link.springer.com/article/10.1007/s11427-021-1972-1)
+- 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
+- 💬 Evidence of SARS-CoV-2 in Italy, [**November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
 - 💡 Others to be added
