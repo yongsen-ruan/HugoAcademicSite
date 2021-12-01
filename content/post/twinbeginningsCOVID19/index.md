@@ -49,18 +49,18 @@ categories:
 
 {{< figure src="fig2.jpg" title="Detailed analyses of the W0 wave (D614G group) before March 2020 under the one-beginning scenario." >}}
 
+
+## Link to this Research
+
+- **National Science Review** -  online on [***NSR***] (https://academic.oup.com/nsr)
+
+
 ## ❤️ Related Research ❤️
 
 - 👉 [**On the origin of SARS-CoV-2—The blind watchmaker argument**](https://link.springer.com/article/10.1007/s11427-021-1972-1)
 - 📚 [**A theoretical exploration of the origin and early evolution of a pandemic**](https://www.sciencedirect.com/science/article/pii/S2095927320307659)
 - 💬 Evidence of SARS-CoV-2 in Italy, [**November 2019**](https://wwwnc.cdc.gov/eid/article/27/2/20-4632_article) and [**September 2019**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3883274)
 - 💡 Others to be added
-
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
 
 
 ## License
