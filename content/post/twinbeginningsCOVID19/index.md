@@ -15,7 +15,7 @@ date: "2021-11-30T00:00:00Z"
 lastmod: "2021-12-01T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -57,12 +57,10 @@ categories:
 - 💡 Others to be added
 
 
-
 ## Features
 
 - **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-
 
 
 ## License
