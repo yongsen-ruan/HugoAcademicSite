@@ -1,10 +1,8 @@
 ---
-title: Mutation Rate Evolution
-summary: Project on the evolution of mutation rate in soma and germline cell.
+title: SARS-CoV-2
+summary: Project on the evolution of SARS-CoV-2, including origin, transmission, adaptive evolution, etc.
 tags:
-- mutation rate
-- soma 
-- germline
+- SARS-CoV-2
 date: "2020-02-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
