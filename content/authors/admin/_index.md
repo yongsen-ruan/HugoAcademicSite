@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/YongsenRuan_CV.pdf
+  link: uploads/Yongsen Ruan CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,9 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-I’m interested in the theoretical population genetics and specialized in computational biology and mathematical modelling. My PhD’s work is focused on the integration of theoretical population genetics and computation models with genomic data of cancer and normal tissues. I’m interested in exploring how mutation, selection, migration and other evolutionary driving forces to affect tumorigenesis, cancer metastasis, tumor heterogeneity and aging. 
+I’m interested in the theoretical population genetics and specialized in computational biology and mathematical modelling. My research focuses on exploring how mutation, selection, genetic drift, and migration to affect evolutionary dynamics, including tumor evolution (tumorigenesis, cancer metastasis, tumor heterogeneity), aging, and viral evolution. In addition, I’m interested in theoretical aspects of traditional evolutionary processes, including the evolution of sex, how recombination and beneficial mutations affect the fitness dynamics of a population, rigorous characterization of Hill-Robertson effect. 
 
-In addition to somatic evolution, I’m interested in theoretical aspects of traditional evolutionary processes, including the evolution of sex, how recombination and beneficial mutations affect the fitness dynamics of a population, rigorous characterization of Hill-Robertson effect. Recently, I’m studying the origin and early evolution of COVID-19, the founder effect in COVID-19 outbreaks. 
+Recently, I’m paying much attention to the project on evolution of SARS-CoV-2, including the origin, cross-species transmission, intra- and inter-host evolution, spread dynamics of variants of concerns (VOCs). This project mainly focuses on the spatiotemporal distribution of new SARS-CoV-2 variants and the evolutionary dynamics of these variants. This project will systematically track the dynamic changes of the viral variants from three levels: intra-individual, inter-individual and global, including exploring the intra-host genetic diversity, estimating the size of the transmission bottleneck between individuals, comparing the relative importance of evolutionary driving forces such as natural selection and random genetic drift in each evolutionary stage. Based on these analyses, we will systematically summarize the adaptive evolution patterns and theory of SARS-CoV-2 at different levels. This project could provide theoretical support and decision-making basis for the scientific prevention and control of COVID-19 pandemic and the blocking of other emergent infectious public events.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YongsenRuan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
