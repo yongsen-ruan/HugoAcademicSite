@@ -60,7 +60,7 @@ social:
   # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/YongsenRuan_CV.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/Yongsen_Ruan_CV.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
@@ -79,4 +79,4 @@ Recently, I’m paying much attention to the project on evolution of SARS-CoV-2,
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YongsenRuan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yongsen_Ruan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
