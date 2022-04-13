@@ -24,7 +24,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Yongsen Ruan**](https://www.ruanyongsen.com/)'
+  caption: 'Image credit: [**Yongsen Ruan**](https://www.yongsen-ruan.com/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -40,7 +40,7 @@ tags:
 
 categories:
 - pandemic
-- Preprint
+- MBE
 ---
 
 ## Overview
@@ -54,7 +54,8 @@ categories:
 
 ## Link to this Research
 
-- **National Science Review** -  online on [**NSR**] (https://academic.oup.com/nsr)
+# - **Molecular Biology and Evolution** -  online on [**MBE**] (https://academic.oup.com/mbe)
+- [**The Runaway Evolution of SARS-CoV-2 Leading to the Highly Evolved Delta Strain**](https://academic.oup.com/nsr)
 
 
 ## ❤️ Related Research ❤️
