@@ -2,7 +2,7 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-active: false  # Activate this widget? true/false ## Delete the sections in content/home/ that you don’t need (or set active to false in their front matter) 
+active: true  # Activate this widget? true/false ## Delete the sections in content/home/ that you don’t need (or set active to false in their front matter) 
 
 # This file represents a page section.
 headless: true
@@ -15,7 +15,8 @@ subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  # page_type: publication
+  page_type: featured
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
