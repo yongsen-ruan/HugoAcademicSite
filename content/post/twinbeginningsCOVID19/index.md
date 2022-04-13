@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Yongsen Ruan**](https://www.ruanyongsen.com/)'
+  caption: 'Image credit: [**Yongsen Ruan**](https://www.yongsen-ruan.com/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -38,7 +38,7 @@ tags:
 
 categories:
 - pandemic
-- Preprint
+- Online
 ---
 
 ## Overview
