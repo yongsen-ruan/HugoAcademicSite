@@ -52,7 +52,7 @@ categories:
 
 ## Link to this Research
 
-- **National Science Review** -  online on [**NSR**] (https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab223/6459751?searchresult=1)
+- [**The twin-beginnings of COVID-19 in Asia and Europe – One prevails quickly**](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwab223/6459751?searchresult=1), online on [**NSR**](https://academic.oup.com/nsr)
 
 
 ## ❤️ Related Research ❤️

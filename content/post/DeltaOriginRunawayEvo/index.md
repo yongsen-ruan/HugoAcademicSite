@@ -53,7 +53,6 @@ categories:
 
 
 ## Link to this Research
-# - **Molecular Biology and Evolution** -  online on [**MBE**] (https://academic.oup.com/mbe)
 
 - [**The Runaway Evolution of SARS-CoV-2 Leading to the Highly Evolved Delta Strain**](https://academic.oup.com/mbe/article/39/3/msac046/6540861)
 
