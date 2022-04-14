@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Data Analysing
         * Modelling
         
   - title: Ph.D. in Biochemistry and Molecular Biology
