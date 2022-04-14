@@ -29,8 +29,7 @@ main:
     url: '#contact'
     weight: 60
 
-# Link to a PDF of your resume/CV from the menu.
-To enable, copy your resume/CV to `static/uploads/Yongsen_Ruan_CV.pdf` and uncomment the lines below.
+# Link to a PDF of your resume/CV from the menu. To enable, copy your resume/CV to `static/uploads/Yongsen_Ruan_CV.pdf` and uncomment the lines below.
  - name: CV
-   url: uploads/Yongsen_Ruan_CV.pdf
+   url: static/uploads/Yongsen_Ruan_CV.pdf
    weight: 70
