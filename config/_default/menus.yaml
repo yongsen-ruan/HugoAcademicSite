@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Experience&Education
     url: '#experience'
-    weight: 20
+    weight: 15
   - name: Posts
     url: '#posts'
     weight: 20
@@ -30,7 +30,7 @@ main:
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+To enable, copy your resume/CV to `static/uploads/Yongsen_Ruan_CV.pdf` and uncomment the lines below.
+ - name: CV
+   url: uploads/Yongsen_Ruan_CV.pdf
+   weight: 70
