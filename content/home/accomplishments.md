@@ -47,8 +47,8 @@ item:
   organization: coursera
   organization_url: https://www.coursera.org/
   title: Maching Learning by Andrea Ng
-
-  url: "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/"
+  url: ""
+  
 - certificate_url: https://www.coursera.org/specializations/data-science-python
   date_end: "2016-02-04"
   date_start: "2015-10-25"
