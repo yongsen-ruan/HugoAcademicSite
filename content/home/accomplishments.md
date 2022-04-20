@@ -39,6 +39,7 @@ item:
   organization: MIT OpenCourseWare
   organization_url: https://ocw.mit.edu/
   title: Linear Algebra by Gilbert Strang
+  url: "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010"
 
 - certificate_url: https://www.coursera.org/learn/machine-learning
   date_end: "2022-04-20"
@@ -47,7 +48,7 @@ item:
   organization: coursera
   organization_url: https://www.coursera.org/
   title: Maching Learning by Andrea Ng
-  url: ""
+  url: "https://www.coursera.org/learn/machine-learning"
   
 - certificate_url: https://www.coursera.org/specializations/data-science-python
   date_end: "2016-02-04"
@@ -55,8 +56,8 @@ item:
   description: ""
   organization: coursera
   organization_url: https://www.coursera.org/
-  title: 'Applied Data Science with Python Specialization'
-  url: ""
+  title: Applied Data Science with Python Specialization
+  url: "https://www.coursera.org/specializations/data-science-python"
 
 design:
   columns: '2' 
