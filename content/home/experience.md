@@ -29,11 +29,7 @@ experience:
     location: Guangzhou
     date_start: '2022-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Data Analysing
-        * Modelling
+    description: 
 
   - title: Postdoctoral Fellow
     company: School of Life Sciences, Sun Yat-sen University
@@ -43,10 +39,10 @@ experience:
     date_start: '2020-11-01'
     date_end: '2022-10-31'
     description: |2-
-        Responsibilities include:
+        Research include:
         
-        * Data Analysing
-        * Modelling
+        * Origin of SARS-CoV-2
+        * Adaptive evolution of VOCs
         
   - title: Ph.D. in Biochemistry and Molecular Biology
     company: School of Life Sciences, Sun Yat-sen University
