@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Associate
+    company: School of Life Sciences, Sun Yat-sen University
+    company_url: 'http://www.sysu.edu.cn/en/index.htm'
+    company_logo: sysu-logo ##Logos can be added in SVG format to your assets/media/brands folder, named accordingly to the brand (lowercase and replacing spaces with hyphens (-))
+    location: Guangzhou
+    date_start: '2022-11-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Data Analysing
+        * Modelling
+
   - title: Postdoctoral Fellow
     company: School of Life Sciences, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/index.htm'
     company_logo: sysu-logo ##Logos can be added in SVG format to your assets/media/brands folder, named accordingly to the brand (lowercase and replacing spaces with hyphens (-))
     location: Guangzhou
     date_start: '2020-11-01'
-    date_end: ''
+    date_end: '2022-10-31'
     description: |2-
         Responsibilities include:
         
