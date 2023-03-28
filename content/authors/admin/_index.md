@@ -6,7 +6,7 @@ title: "Yongsen Ruan"
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow 
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: http://sysu.edu.cn/en/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include population genetics, evolutionary genomics, somatic evolution, origin and evolution of virus, evolution of sex.
+bio: My research interests include population genetics, evolutionary genomics, somatic evolution, origin and evolution of virus.
 
 # Interests to show in About widget
 interests:
@@ -23,7 +23,6 @@ interests:
 - Computational Biology
 - Somatic Evolution
 - Origin and Evolution of Virus
-- Evolution of Sex
 
 # Education to show in About widget
 education:
@@ -74,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-My research focuses on understanding many interesting evolutionary processes by integrating approaches from evolutionary genomics, mathematical statistics, and computational biology. I’m most interested in the relative contributions of stochastic and deterministic forces to a variety of evolutionary phenomena. There are three major research directions:(1) ***Adaptive evolution of SARS-CoV-2***, including the origin, cross-species transmission, intra- and inter-host evolution, and spread dynamics of variants of concerns (VOCs). Using branching process theory, and genomic approaches, we describe the spatiotemporal distribution of new SARS-CoV-2 variants and track the evolutionary dynamics of these variants at three levels: intra-host, inter-host, and globally. These will help us generalize the adaptive evolutionary patterns and theory of SARS-CoV-2 at different levels.(2) ***Cancer evolutionary dynamics***, including tumorigenesis, heterogeneity, and metastasis. We are applying the theory of population genetics to understand how mutation, selection, genetic drift, and migration drive tumor evolution with the help of cancer genomics. (3) ***Theoretical aspects of traditional evolutionary processes***. Combine the evolutionary approaches with mathematical modeling and computational simulation, we analyze publicly available data to understand evolution of mutation rate, epistasis, fitness landscapes, and Hill-Robertson effect. In particular, characterize and understand how mutation rate, genetic recombination and beneficial mutations change the fitness dynamics of populations.
+My research focuses on understanding many interesting evolutionary processes by integrating approaches from evolutionary genomics, mathematical statistics, and computational biology. I’m most interested in the relative contributions of stochastic and deterministic forces to a variety of evolutionary phenomena. There are three major research directions: (1) ***Adaptive evolution of SARS-CoV-2***, including the origin, cross-species transmission, intra- and inter-host evolution, and spread dynamics of variants of concerns (VOCs). (2) ***Cancer evolutionary dynamics***, including tumorigenesis, heterogeneity, and metastasis. We are applying the theory of population genetics to understand how mutation, selection, genetic drift, and migration drive tumor evolution with the help of cancer genomics. (3) ***Theoretical aspects of traditional evolutionary processes***. Combining the evolutionary approaches with mathematical modeling and computational simulation, we analyze publicly available data to understand evolution of mutation rate, epistasis, fitness landscapes, and Hill-Robertson effect. 
 
 
 
