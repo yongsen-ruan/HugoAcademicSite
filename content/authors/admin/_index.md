@@ -27,9 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Biochemistry and Molecular Biology (Mentor: Chung-I Wu)
+  - course: Ph.D. in Biochemistry and Molecular Biology
     institution: Sun Yat-sen University
-    advisor: Prof. Chung-I Wu
+    teacher: Prof. Chung-I Wu
     year: 2020
   - course: B.S. in Biotechnology
     institution: Sun Yat-sen University
