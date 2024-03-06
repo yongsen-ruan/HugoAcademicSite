@@ -14,15 +14,16 @@ organizations:
   url: http://sysu.edu.cn/en/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include population genetics, evolutionary genomics, somatic evolution, origin and evolution of virus.
+bio: My research interests include population genetics, evolutionary genomics, origin and evolution of virus，somatic evolution
 
 # Interests to show in About widget
 interests:
 - Populaiton Genetics
 - Evolutionary genomics
 - Computational Biology
-- Somatic Evolution
 - Origin and Evolution of Virus
+- Machine Learning
+- Somatic Evolution
 
 # Education to show in About widget
 education:
@@ -73,8 +74,10 @@ email: ""
 highlight_name: true
 ---
 
-My research focuses on understanding many interesting evolutionary processes by integrating approaches from evolutionary genomics, mathematical statistics, and computational biology. I’m most interested in the relative contributions of stochastic and deterministic forces to a variety of evolutionary phenomena. There are three major research directions: (1) ***Adaptive evolution of SARS-CoV-2***, including the origin, cross-species transmission, intra- and inter-host evolution, and spread dynamics of variants of concerns (VOCs). (2) ***Cancer evolutionary dynamics***, including tumorigenesis, heterogeneity, and metastasis. We are applying the theory of population genetics to understand how mutation, selection, genetic drift, and migration drive tumor evolution with the help of cancer genomics. (3) ***Theoretical aspects of traditional evolutionary processes***. Combining the evolutionary approaches with mathematical modeling and computational simulation, we analyze publicly available data to understand evolution of mutation rate, epistasis, fitness landscapes, and Hill-Robertson effect. 
-
+My research focuses on integrating approaches from evolutionary genomics, mathematical statistics, machine learning and computational biology to understand various evolutionary processes. I am particularly interested in investigating the relative contributions of stochastic and deterministic forces to evolutionary phenomena across three major research directions:  
+1.	**Adaptive evolution of viruses**. I explore viruses such as SARS-CoV-2, IBV, and PEDV to understand their adaptive evolution, including factors such as origin, cross-species transmission, intra- and inter-host evolution, and spread dynamics of emerging variants. This research direction contributes to my understanding of viral evolution and its implications for public health.  
+2.	**Theoretical aspects of traditional evolutionary processes**. I delve into theoretical aspects of traditional evolutionary processes by combining evolutionary approaches with mathematical modeling, machine learning, and computational simulation. By analyzing publicly available data, I aim to understand various aspects of evolution, including mutation rate, individual-based genetic drift, epistasis, fitness landscapes, and Hill-Robertson effect. This interdisciplinary approach helps me uncover fundamental principles underlying evolutionary dynamics.  
+3.	**Cancer evolutionary dynamics**. I focus on understanding the evolutionary dynamics of cancer, including tumorigenesis, heterogeneity, and metastasis. By applying population genetics theory, I aim to elucidate how mutation, selection, genetic drift, and migration drive tumor evolution, leveraging insights from cancer genomics. This research has implications for cancer diagnosis, prognosis, and treatment strategies.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yongsen_Ruan_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
