@@ -6,7 +6,7 @@ title: "Yongsen Ruan"
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
