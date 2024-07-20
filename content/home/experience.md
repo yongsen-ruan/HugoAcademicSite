@@ -27,7 +27,7 @@ experience:
     company_url: 'https://lifesciences.sysu.edu.cn/zh-hans/teacher/1751'
     company_logo: sysu-logo ##Logos can be added in SVG format to your assets/media/brands folder, named accordingly to the brand (lowercase and replacing spaces with hyphens (-))
     location: Guangzhou
-    date_start: '2026-06-01'
+    date_start: '2024-06-01'
     date_end: ''
     description: 
 
